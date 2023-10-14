@@ -1,6 +1,12 @@
 # Git Commands
 
-- `git clone [repository-link]`  
+- `git init`  
+create new Git repository.  
+
+- `git status`  
+display state of the working directory and staging area.
+
+- `git clone [remote-repo-link]`  
 clone repository from Github to local.  
 
 - `git add [file]`  
@@ -17,6 +23,9 @@ push files to a specific branch.
 
 - `git push -u origin [branch-name]`  
 push files to a specific branch and set the branch as default push location.  
+
+- `git remote add origin [remote-repo-link]`  
+centralises local to remote repository.
 
 - `git branch`  
 identify branches and current branch.  
