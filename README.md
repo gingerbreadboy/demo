@@ -1,7 +1,7 @@
 # Git Commands
 
 `git clone [repository-link]`  
-clone repository from Github to local.
+clone repository from Github to local.  
 `git add [file]`  
 add files to staging.  
 `git commit -m "[message]" -m "[description]"`  
