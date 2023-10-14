@@ -25,7 +25,10 @@ push files to a specific branch.
 push files to a specific branch and set the branch as default push location.  
 
 - `git remote add origin [remote-repo-link]`  
-centralises local to remote repository.
+centralises local to remote repository.  
+
+- `git remote -v`  
+shows remote repositories that is connected to the local repository.  
 
 - `git branch`  
 identify branches and current branch.  
