@@ -46,4 +46,10 @@ delete empty directory.
 delete directory and all contents.  
 
 - `rm -rf [directory-name]`  
-delete directory and all contents (yes to all prompts)  
+delete directory and all contents (yes to all prompts).  
+
+- `ls`  
+list all files.  
+
+- `ls -a`  
+list all files (including hidden).
