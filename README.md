@@ -65,3 +65,6 @@ list all files.
 
 - `ls -a`  
 list all files (including hidden).
+
+- `touch [file-name]`  
+create file.
