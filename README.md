@@ -40,6 +40,9 @@ change current branch.
 create and move to newly created branch.  
 
 - `git branch -D [branch-name]`  
+delete branch locally. (if not merged)  
+
+- `git branch -d [branch-name]`  
 delete branch locally.  
 
 - `git push origin --delete [branch-name]`  
