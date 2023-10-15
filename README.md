@@ -45,6 +45,14 @@ delete branch locally.
 - `git push origin --delete [branch-name]`  
 delete branch remotely.
 
+- `git diff`  
+shows all of the changes made in the files.  
+
+- `git diff [branch-name]`  
+shows all changes made between 2 branches.  
+
+- `git pull origin [branch-name]`  
+pull latest changes from github.  
 
 # Linux Commands
 
