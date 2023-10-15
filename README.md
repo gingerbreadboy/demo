@@ -15,6 +15,9 @@ add files to staging.
 - `git commit -m "[message]" -m "[description]"`  
 create snapshots of the project along the timeline of a Git project.  
 
+- `git commit -am "[message]"`  
+git shortcut for add all and commit changes.  
+
 - `git push`  
 upload files from locat repository to remote.  
 
