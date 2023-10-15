@@ -39,7 +39,7 @@ change current branch.
 - `git checkout -b [branch-name]`  
 create and move to newly created branch.  
 
-- `git branch -d [branch-name]`  
+- `git branch -D [branch-name]`  
 delete branch locally.  
 
 - `git push origin --delete [branch-name]`  
@@ -51,7 +51,7 @@ shows all of the changes made in the files.
 - `git diff [branch-name]`  
 shows all changes made between 2 branches.  
 
-- `git pull origin [branch-name]`  
+- `git pull`  
 pull latest changes from github.  
 
 # Linux Commands
