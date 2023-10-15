@@ -51,7 +51,7 @@ shows all of the changes made in the files.
 - `git diff [branch-name]`  
 shows all changes made between 2 branches.  
 
-- `git pull origin [branch-name]`  
+- `git pull`  
 pull latest changes from github.  
 
 # Linux Commands
