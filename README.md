@@ -39,6 +39,12 @@ change current branch.
 - `git checkout -b [branch-name]`  
 create and move to newly created branch.  
 
+- `git branch -d [branch-name]`  
+delete branch locally.  
+
+- `git push origin --delete [branch-name]`  
+delete branch remotely.
+
 
 # Linux Commands
 
